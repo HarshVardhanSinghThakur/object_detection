@@ -1,0 +1,26 @@
+<annotation>
+	<folder>booh</folder>
+	<filename>IMG_20230928_213843.jpg</filename>
+	<path>C:\Users\Harsh Thakur\Tensorflow\workspace\images\collectedimages\booh\IMG_20230928_213843.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>booh</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1706</xmin>
+			<ymin>1889</ymin>
+			<xmax>2477</xmax>
+			<ymax>3122</ymax>
+		</bndbox>
+	</object>
+</annotation>
